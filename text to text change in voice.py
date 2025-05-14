@@ -8,7 +8,7 @@ voices = voice_handler.getProperty('voices')
 voice_handler.setProperty('voice',voices[0].id)
 
 # Set properties before adding
-# Things to say
+# Things to say...
 
 # Sets speed percent
 # Can be more than 100
